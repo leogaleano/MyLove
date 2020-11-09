@@ -1,0 +1,21 @@
+.card{
+    border-color: #d4af37;
+}
+.img-producto{
+    width: 200px;
+    align-self: center;
+}
+.card-text{
+    font-size: 15px;
+}
+.btn-tienda{
+    background-color: white;
+    border-color: #d4af37;
+    color: #d4af37;
+    border-width: 2px;
+}
+.btn-tienda:hover{
+    background-color: #d4af37;
+    color: white !important;
+    border-color: #d4af37;
+}
